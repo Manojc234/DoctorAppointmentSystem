@@ -40,7 +40,7 @@ const Navbar = () => {
 
       </ul>
       <a
-        href="http://localhost:5174" // Replace with your Admin Panel URL
+        href="https://doctor-appointment-system-admin-gold.vercel.app/" // Replace with your Admin Panel URL
         target="_blank"
         rel="noopener noreferrer"
         className="bg-white-600 text-black py-2 px-4 rounded hover:bg-blue-400"
